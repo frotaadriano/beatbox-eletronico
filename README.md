@@ -1,5 +1,4 @@
-# Beatbox Eletrônico — Site Tocável
-
+# Beatbox Eletrônico  
 Sequenciador eletrônico de 16 passos com teclado, arpejador, importação/exportação de templates em JSON, mute/solo por trilha, swing e controle de BPM.
 
 ## 🎹 Funcionalidades
