@@ -274,7 +274,7 @@ export default function App() {
       <div className={ui.wrap}>
         <header className="flex flex-col lg:flex-row gap-4 lg:items-end justify-between mb-6">
           <div>
-            <h1 className={ui.h1}>Beatbox Eletrônico — Site Tocável</h1>
+            <h1 className={ui.h1}>Beatbox Eletrônico</h1>
             <p className={ui.sub}>Sequenciador de 16 passos com teclado, arpegiador, mute/solo e templates.</p>
           </div>
           <div className={ui.row}>
